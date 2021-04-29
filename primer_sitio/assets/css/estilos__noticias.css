@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,600&display=swap');
+
+body {
+    background-image: url(../img/fondo.jpg);
+    background-repeat: repeat;
+    background-color: darkkhaki;
+    padding: 0px;
+    margin: 0px;
+
+
+}
+
+h1 {
+    color: black;
+    font-size: 66px;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: bold;
+    margin-top: 0px;
+    background-color: white;
+    border-bottom: red 4px solid;
+    text-align: center;
+    border-radius: 7px;
+
+}
+
+h2 {
+    background-color: tomato;
+    margin-right: 870px;
+    border-left: 5px;
+    border-right: 5px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 17px;
+
+
+}
+
+h3 {
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    color: black;
+}
+
+h4 {
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+}
+
+blockquote {
+    font-size: 23px;
+    font-family: 'Montserrat', sans-serif;
+    border-left: red 12px solid;
+    font-weight: bold;
+    font-style: italic;
+    background-color: white;
+
+}
+
+#envoltorio__principal {
+    background-color: rgba(255, 255, 255, 0.9);
+    width: 70%;
+    padding: 20px;
+    margin-top: 25px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 0px;
+    border-radius: 3px;
+
+}
+
+iframe {
+    padding-left: 60px;
+}
